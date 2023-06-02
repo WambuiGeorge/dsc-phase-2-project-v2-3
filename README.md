@@ -1,4 +1,4 @@
-**6TH-SENSE AGENCY HOUSE PRICE PREDICTION MODEL**
+#**6TH-SENSE AGENCY HOUSE PRICE PREDICTION MODEL**
 
 ![house_image (1)](https://github.com/WambuiGeorge/dsc-phase-2-project-v2-3/assets/127614423/c6016ced-70ff-4998-b873-c1b8ffa40285)
 
