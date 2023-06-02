@@ -32,9 +32,9 @@ Square foot of living, grade, square foot above, bathrooms and view are the top 
 Encourage renovations to improve the overall condition and raise the property's grade as this has a great impact on the value of a house.   Highlight the significant impact of square footage of living space on house prices and use this information to justify higher listing prices for properties with more extensive square footage.   The number of bathrooms and bedrooms also have a positive correlation with the value of a house. Therefore, during renovation adding a bedroom would increase the value of the house!
 
 # Python Library Tools
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scikit Learn
-Statsmodel
+Pandas,
+Numpy,
+Seaborn,
+Matplotlib,
+Scikit Learn,
+Statsmodel.
